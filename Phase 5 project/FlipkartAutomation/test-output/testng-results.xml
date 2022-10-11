@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-11T07:08:51Z" name="Default suite" finished-at="2022-10-11T07:10:32Z" duration-ms="100853">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T07:08:51Z" name="Default test" finished-at="2022-10-11T07:10:32Z" duration-ms="100853">
+      <class name="Flipkart">
+        <test-method signature="testSearchchrome()[pri:0, instance:Flipkart@51549490]" started-at="2022-10-11T12:38:51Z" name="testSearchchrome" finished-at="2022-10-11T12:39:24Z" duration-ms="32790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchchrome -->
+        <test-method signature="testsearchfirefox()[pri:0, instance:Flipkart@51549490]" started-at="2022-10-11T12:39:24Z" name="testsearchfirefox" finished-at="2022-10-11T12:40:32Z" duration-ms="68047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsearchfirefox -->
+      </class> <!-- Flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
