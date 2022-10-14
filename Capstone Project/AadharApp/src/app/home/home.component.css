@@ -1,0 +1,5 @@
+.image{
+    height: 46em; background-size:cover; width: auto;;
+    background-image:url('aadhar.jpg');
+    background-position:50% 50%;
+  }
