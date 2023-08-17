@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_java_fsd_1692267311209-pr-trigger-input-set
+  identifier: Build_java_fsd_1692267311209prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_java_fsd_1692267311209
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
